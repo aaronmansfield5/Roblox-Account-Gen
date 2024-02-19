@@ -1,9 +1,10 @@
 # Roblox Account Gen
 
-[![Node.js](https://img.shields.io/badge/Node.js-v14.0.0-green.svg)](https://nodejs.org/)
-[![npm](https://img.shields.io/badge/npm-v6.0.0-red.svg)](https://www.npmjs.com/)
-[![Discord.js](https://img.shields.io/badge/Discord.js-v13.0.0-purple.svg)](https://discord.js.org/)
-[![Puppeteer](https://img.shields.io/badge/Puppeteer-v10.0.0-yellow.svg)](https://pptr.dev/)
+[![Node.js](https://img.shields.io/badge/v21.1.0-43853D?style=flat&logo=node.js&logoColor=white&label=Node.js&message=Node.js)](https://nodejs.org/)
+[![NPM](https://img.shields.io/badge/v10.2.0-CB3837?style=flat&logo=npm&logoColor=white&label=NPM&message=NPM)](https://www.npmjs.com/)
+[![Discord.js](https://img.shields.io/badge/v14.14.1-5865F2?style=flat&logo=discord&logoColor=white&label=Discord.js&message=Discord.js)](https://discord.js.org/)
+[![Puppeteer](https://img.shields.io/badge/v22.1.0-40B5A4?style=flat&logo=puppeteer&logoColor=white&label=Puppeteer&message=Puppeteer)](https://pptr.dev/)
+
 
 ## Overview
 `roblox-account-gen` is a Node.js package designed to automate the generation of Roblox accounts using [Capsolver](https://www.capsolver.com/), [Puppeteer](https://pptr.dev/) and [Discord.js](https://discord.js.org/). It includes features such as account creation, solving [FunCAPTCHA](https://www.arkoselabs.com/) challenges, and notifying users through Discord webhooks.
@@ -63,7 +64,7 @@ Replace <amount> with the desired number of accounts to generate.
 - [dotenv](https://www.npmjs.com/package/dotenv)
 - [puppeteer](https://www.npmjs.com/package/puppeteer)
 - [puppeteer-extra](https://www.npmjs.com/package/puppeteer-extra)
-- [puppeteer-extra-plugin-stealth](https://www.npmjs.com/package/puppeteer-extra-plugin-stealth)https://www.npmjs.com/package/puppeteer-extra-plugin-stealth
+- [puppeteer-extra-plugin-stealth](https://www.npmjs.com/package/puppeteer-extra-plugin-stealth)
 - [user-agents](https://www.npmjs.com/package/user-agents)
 - [discord.js](https://www.npmjs.com/package/discord.js)
-- [node-bash-title](https://www.npmjs.com/package/node-bash-title)https://www.npmjs.com/package/node-bash-title
+- [node-bash-title](https://www.npmjs.com/package/node-bash-title)
