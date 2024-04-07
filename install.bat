@@ -1,0 +1,1 @@
+npm i dotenv puppeteer-extra-plugin-stealth puppeteer puppeteer-extra user-agents node-bash-title discord.js

@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "axios": "^1.6.7",
+    "coinbase-commerce-node": "^1.0.4",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5",
+    "env": "^0.0.2",
+    "ghost-cursor": "^1.1.19",
+    "node-bash-title": "^0.0.2",
+    "proxy-chain": "^2.4.0",
+    "puppeteer": "^22.2.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-capsolver": "^1.1.2",
+    "puppeteer-extra-plugin-recaptcha-v3": "^3.7.1",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "qrcode": "^1.5.3",
+    "user-agents": "^1.1.125"
+  }
+}
