@@ -5,7 +5,7 @@
 [![Discord.js](https://img.shields.io/badge/v14.14.1-5865F2?style=flat&logo=discord&logoColor=white&label=Discord.js&message=Discord.js)](https://discord.js.org/)
 [![Puppeteer](https://img.shields.io/badge/v22.1.0-40B5A4?style=flat&logo=puppeteer&logoColor=white&label=Puppeteer&message=Puppeteer)](https://pptr.dev/)
 
-> THIS IS DEPRECATED, CAPSOLVER DOES NOT SUPPORT HCAPTCHA ANYMORE
+> This is deprecated, and as a result may no longer work.
 
 ## Overview
 `roblox-account-gen` is a Node.js package designed to automate the generation of Roblox accounts using [Capsolver](https://www.capsolver.com/), [Puppeteer](https://pptr.dev/) and [Discord.js](https://discord.js.org/). It includes features such as account creation, solving [FunCAPTCHA](https://www.arkoselabs.com/) challenges, and notifying users through Discord webhooks.
